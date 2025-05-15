@@ -1,40 +1,34 @@
-Prologue by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
+Data Analyst Portfolio – Mcdonald Akogwu
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
+Welcome to my personal data analytics portfolio! This site showcases selected projects that highlight my skills in data analysis, visualization, and storytelling.
 
-http://ineedchemicalx.deviantart.com/
+About Me
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+I'm a detail-oriented Data Analyst passionate about transforming raw data into meaningful insights. With hands-on experience in tools like Python (Pandas, Matplotlib, Seaborn), SQL (PostgreSQL), Excel, Tableau, and Power BI, I help businesses make smarter, data-driven decisions.
 
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
+What You'll Find Here
 
-(* = Not included)
+➡️Interactive Dashboards
 
-AJ
-aj@lkn.io | @ajlkn
+➡️Exploratory Data Analysis (EDA)
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+➡️Business Insights Reports
+
+➡️Real-world Data Projects
 
 
-Credits:
+Each project includes a short description, tools used, and key outcomes.
 
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
+Live Site
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Visit the portfolio here:
+https://mcdonald006.github.io/AnalysisByMc-Portfolio/
 
-	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Contact
+
+Connect with me on LinkedIn or reach out via Email
+
+
+
