@@ -10,32 +10,53 @@
     <style>
         body {
             background-color: #e6f0ff;
-            color: #ffffff;
             font-family: 'Poppins', sans-serif;
+            color: #000;
         }
+
         #logo .image img {
             width: 150px;
             height: 150px;
             border-radius: 50%;
             display: block;
-            margin: 0 auto 2rem auto;
+            margin: 0 auto 1rem auto;
         }
-        #logo h2#title {
+
+        #profile-info {
+            text-align: center;
+            margin-top: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        #profile-info h2 {
             color: #ffffff;
             font-size: 1.5rem;
-            text-align: center;
         }
-        #logo p {
+
+        #profile-info p {
             color: #ffffff;
-            text-align: center;
             font-size: 1rem;
         }
+
+        #nav {
+            margin-top: 2rem;
+        }
+
+        .icons {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            list-style: none;
+            padding: 0;
+        }
+
         .project-grid {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
             gap: 1.5rem;
             margin-top: 2rem;
         }
+
         .project-card {
             text-align: center;
             border-radius: 8px;
@@ -44,64 +65,56 @@
             background: white;
             transition: transform 0.2s;
         }
+
         .project-card:hover {
             transform: translateY(-5px);
         }
+
         .project-card img {
             width: 100%;
             height: auto;
             display: block;
         }
+
         .project-card h3 {
             padding: 1rem;
             margin: 0;
             font-size: 1.1rem;
         }
-        #logo {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    margin-bottom: 2rem;
-}
-
-#nav {
-    margin-top: 2rem;
-}
-
     </style>
 </head>
 <body class="is-preload">
     <div id="header">
         <div class="top">
-          <div id="logo">
-    <span class="image">
-        <img src="images/ProfilePhoto.png" alt="Profile Photo" />
-    </span>
-</div>
+            <div id="logo">
+                <span class="image">
+                    <img src="images/ProfilePhoto.png" alt="Profile Photo" />
+                </span>
+            </div>
 
-<div id="profile-info">
-    <h2 id="title">Akogwu Mcdonald</h2>
-    <p>Data Analyst</p>
-</div>
+            <div id="profile-info">
+                <h2>Akogwu Mcdonald</h2>
+                <p>Data Analyst</p>
+            </div>
 
-<nav id="nav">
-    <ul>
-        <li><a href="#top" id="top-link"><span class="icon solid fa-home">Intro</span></a></li>
-        <li><a href="#portfolio" id="portfolio-link"><span class="icon solid fa-th">Portfolio</span></a></li>
-        <li><a href="#about" id="about-link"><span class="icon solid fa-user">Why Hire Me?</span></a></li>
-        <li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">Contact</span></a></li>
-    </ul>
-</nav>
+            <nav id="nav">
+                <ul>
+                    <li><a href="#top" id="top-link"><span class="icon solid fa-home">Intro</span></a></li>
+                    <li><a href="#portfolio" id="portfolio-link"><span class="icon solid fa-th">Portfolio</span></a></li>
+                    <li><a href="#about" id="about-link"><span class="icon solid fa-user">Why Hire Me?</span></a></li>
+                    <li><a href="#contact" id="contact-link"><span class="icon solid fa-envelope">Contact</span></a></li>
+                </ul>
+            </nav>
 
-<div id="socials">
-    <ul class="icons">
-        <li><a href="https://twitter.com/m_mylze" target="_blank" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-        <li><a href="https://github.com/mcdonald006" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></li>
-        <li><a href="mailto:akogwu1998@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
-        <li><a href="https://www.linkedin.com/in/mcdonald-akogwu-b2998214a?" target="_blank" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
-    </ul>
-</div>
-
+            <div id="socials">
+                <ul class="icons">
+                    <li><a href="https://twitter.com/m_mylze" target="_blank" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+                    <li><a href="https://github.com/mcdonald006" target="_blank" class="icon brands fa-github"><span class="label">Github</span></a></li>
+                    <li><a href="mailto:akogwu1998@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+                    <li><a href="https://www.linkedin.com/in/mcdonald-akogwu-b2998214a?" target="_blank" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+                </ul>
+            </div>
+        </div>
     </div>
 
     <div id="main">
