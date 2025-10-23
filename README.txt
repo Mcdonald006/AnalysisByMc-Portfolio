@@ -6,7 +6,7 @@ Welcome to my personal data analytics portfolio! This site showcases selected pr
 
 About Me
 
-I'm a detail-oriented Data Analyst passionate about transforming raw data into meaningful insights. With hands-on experience in tools like Python (Pandas, Matplotlib, Seaborn), SQL (PostgreSQL), Excel, Tableau, and Power BI, I help businesses make smarter, data-driven decisions.
+I'm a detail-oriented Business Data Analyst passionate about transforming raw data into meaningful insights. With hands-on experience in tools like Python (Pandas, Matplotlib, Seaborn), SQL (PostgreSQL), Excel, Tableau, and Power BI, I help businesses make smarter, data-driven decisions.
 
 What You'll Find Here
 
